@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "a.di.a.ba.tik",
+    "akarKata": null,
+    "ejaan": "adiabatik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keadaan dalam suatu sistem yang terjadi tanpa memperoleh atau kehilangan kalor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan perubahan kelembapan dan suhu udara tanpa kehilangan atau mendapatkan panas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

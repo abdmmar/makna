@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.de.no.id",
+    "akarKata": null,
+    "ejaan": "adenoid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelenjar sejenis amandel yang terletak di dinding belakang nasofaring dan biasanya menyumbat saluran hidung dan telinga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

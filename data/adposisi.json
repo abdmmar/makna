@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.po.si.si",
+    "akarKata": null,
+    "ejaan": "adposisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konsep yang mencakup preposisi dan posposisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

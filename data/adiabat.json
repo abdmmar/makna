@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.a.bat",
+    "akarKata": null,
+    "ejaan": "adiabat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan yang terjadi dalam suatu sistem tanpa memperoleh atau kehilangan kalor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

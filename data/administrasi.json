@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ad.mi.nis.tra.si",
+    "akarKata": null,
+    "ejaan": "administrasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha dan kegiatan yang meliputi penetapan tujuan serta penetapan cara-cara penyelenggaraan pembinaan organisasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha dan kegiatan yang berkaitan dengan penyelenggaraan kebijakan untuk mencapai tujuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan yang berkaitan dengan penyelenggaraan pemerintahan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan kantor dan tata usaha",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemerintah atau lembaga pemerintah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

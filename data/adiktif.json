@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.dik.tif",
+    "akarKata": null,
+    "ejaan": "adiktif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat kecanduan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat menimbulkan ketergantungan pada pemakainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

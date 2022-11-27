@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.di.to.koh",
+    "akarKata": null,
+    "ejaan": "aditokoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh utama",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh yang dianggap mulia, membawa keberuntungan, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.di.pa.ti",
+    "akarKata": null,
+    "ejaan": "adipati",
+    "baku": true,
+    "alt": "dipati",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar untuk raja muda atau wakil raja (di Jawa Tengah gelar bagi Paku Alam dan Mangkunagara)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar kebangsawanan yang tinggi (misalnya di Kalimantan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar bupati (sebelum zaman kemerdekaan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ADPI",
+    "akarKata": null,
+    "ejaan": "ADPI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "analisis daerah perimeter instalasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

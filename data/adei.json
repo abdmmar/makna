@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.dei",
+    "akarKata": null,
+    "ejaan": "adei",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk mengungkapkan keluhan atau rasa malas ketika mengangkat sesuatu yang sangat berat",
+        "contoh": "--, berat sekali kopermu ini",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

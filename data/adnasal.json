@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.na.sal",
+    "akarKata": null,
+    "ejaan": "adnasal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tulang kecil yang terletak di depan lubang hidung ikan-ikan tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

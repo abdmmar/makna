@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.hab.lur",
+    "akarKata": null,
+    "ejaan": "adihablur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susunan atom yang teratur dalam larutan zadat yang membentuk kisi yang ditumbuhkan pada kisi larutan zadat normal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

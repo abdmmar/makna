@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.dil",
+    "akarKata": null,
+    "ejaan": "adil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sama berat; tidak berat sebelah; tidak memihak",
+        "contoh": "keputusan hakim itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpihak kepada yang benar; berpegang pada kebenaran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sepatutnya; tidak sewenang-wenang",
+        "contoh": "para buruh mengemukakan tuntutan yang --",
+        "info": []
+      }
+    ]
+  }
+]

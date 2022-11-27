@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.dip.si.a",
+    "akarKata": null,
+    "ejaan": "adipsia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hilang rasa haus meskipun air tubuh sudah terdeplesi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

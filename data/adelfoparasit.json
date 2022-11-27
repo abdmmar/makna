@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.del.fo.pa.ra.sit",
+    "akarKata": null,
+    "ejaan": "adelfoparasit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk yang memarasit pada sebuah makhluk inang yang sekerabat dekat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

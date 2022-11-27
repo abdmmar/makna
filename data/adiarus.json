@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.a.rus",
+    "akarKata": null,
+    "ejaan": "adiarus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "model dua fluida superkonduktivitas arus yang muncul dari gerak elektron superkonduktif yang berbeda dengan arus normal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

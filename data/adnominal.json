@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.no.mi.nal",
+    "akarKata": null,
+    "ejaan": "adnominal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata atau kelompok kata yang menerangkan nomina",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

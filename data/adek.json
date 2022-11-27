@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "a.dek",
+    "akarKata": null,
+    "ejaan": "adek",
+    "baku": false,
+    "alt": "adik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saudara kandung yang lebih muda (laki-laki atau perempuan)",
+        "contoh": "-- kandung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerabat yang lebih muda (dari pertalian kekeluargaan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada laki-laki atau perempuan yang lebih muda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan untuk pramuka yang lebih muda usia atau tingkatannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pramuka",
+            "sumberTeks": "usulan untuk penambahan bidang baru"
+          }
+        ]
+      }
+    ]
+  }
+]

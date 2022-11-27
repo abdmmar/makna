@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.del.fo.ga.mi",
+    "akarKata": null,
+    "ejaan": "adelfogami",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembuahan antara dua individu berbeda yang berasal dari satu induk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

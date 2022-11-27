@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "ad.mi.nis.tra.tur",
+    "akarKata": null,
+    "ejaan": "administratur",
+    "baku": false,
+    "alt": "administrator",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "direktur perusahaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengurus; penata usaha",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengusaha atau pembesar setempat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "politik dan pemerintahan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mempunyai kemampuan memerintah yang sangat baik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "politik dan pemerintahan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin di bidang pelaksanaan peraturan, prosedur, dan kebijakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "manajemen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.den.dum",
+    "akarKata": null,
+    "ejaan": "adendum",
+    "baku": true,
+    "alt": "adenda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jilid tambahan (pada buku); lampiran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketentuan atau pasal tambahan, misalnya dalam akta",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

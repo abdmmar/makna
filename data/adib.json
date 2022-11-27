@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.dib",
+    "akarKata": null,
+    "ejaan": "adib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beradab; tahu tata krama; sopan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli dalam sastra",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

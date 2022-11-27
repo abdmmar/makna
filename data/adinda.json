@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.din.da",
+    "akarKata": null,
+    "ejaan": "adinda",
+    "baku": true,
+    "alt": "adikanda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada adik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          }
+        ]
+      }
+    ]
+  }
+]

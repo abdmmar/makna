@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.re.nal",
+    "akarKata": null,
+    "ejaan": "adrenal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelenjar endokrin di atas ginjal yang menghasilkan hormon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.a.fa.nus",
+    "akarKata": null,
+    "ejaan": "adiafanus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai permukaan yang buram, tidak tembus cahaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di-a.di",
+    "akarKata": null,
+    "ejaan": "adi-adi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puisi yang dibacakan pada upacara pemberian gelar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komering",
+            "sumberTeks": "bahasa di provinsi sumatra selatan"
+          }
+        ]
+      }
+    ]
+  }
+]

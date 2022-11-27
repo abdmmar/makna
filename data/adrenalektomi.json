@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.re.nal.ek.to.mi",
+    "akarKata": null,
+    "ejaan": "adrenalektomi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembedahan untuk membuang kelenjar adrenal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

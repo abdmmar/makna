@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "a.di.wi.ra",
+    "akarKata": null,
+    "ejaan": "adiwira",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pahlawan super",
+        "contoh": "Gundala adalah -- asli Indonesia",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          },
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

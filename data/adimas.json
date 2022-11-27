@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "a.di.mas",
+    "akarKata": null,
+    "ejaan": "adimas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adinda; adik (laki-laki)",
+        "contoh": "kangmas tiada setuju jikalau -- ikut pergi berperang",
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          },
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

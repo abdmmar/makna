@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.jek.tif",
+    "akarKata": null,
+    "ejaan": "adjektif",
+    "baku": false,
+    "alt": "adjektiva",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata yang menerangkan nomina (kata benda) dan secara umum dapat bergabung dengan kata lebih dan sangat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

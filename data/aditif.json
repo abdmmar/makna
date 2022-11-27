@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "a.di.tif",
+    "akarKata": null,
+    "ejaan": "aditif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan atau dihasilkan dengan penambahan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang ditambahkan pada suatu produk, misalnya sebagai penambah warna, penyedap rasa, pengawet pada makanan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

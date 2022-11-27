@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "a.de.ni.na",
+    "akarKata": null,
+    "ejaan": "adenina",
+    "baku": true,
+    "alt": "adenin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "vitamin B-4 yang diturunkan dari teh atau ragi, digunakan untuk pengondisi kulit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "basa purina yang terdapat dalam DNA, RNA, dan molekul pembawa energi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

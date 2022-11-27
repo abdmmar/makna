@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "a.dok",
+    "akarKata": null,
+    "ejaan": "adok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian dengan gerakan melingkar, dilakukan pada saat pesta perkawinan dan hanya oleh laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.dok",
+    "akarKata": null,
+    "ejaan": "adok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bisul yang tumbuh pada kemaluan laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "toraja",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.dok",
+    "akarKata": null,
+    "ejaan": "adok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik tradisional Minangkabau,  berbentuk rebana dengan penyanggang lingkaran yang tinggi dan tebal, dipakai untuk mengiringi tarian Rantak Kudo",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

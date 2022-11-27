@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.po.si.tas",
+    "akarKata": null,
+    "ejaan": "adipositas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perihal lemak; kegemukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

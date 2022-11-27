@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.ju.di.ka.si",
+    "akarKata": null,
+    "ejaan": "adjudikasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyelesaian perkara di pengadilan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

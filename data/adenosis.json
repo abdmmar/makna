@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.de.no.sis",
+    "akarKata": null,
+    "ejaan": "adenosis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kelenjar, terutama menyerang kelenjar getah bening",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

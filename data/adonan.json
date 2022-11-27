@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.don.an",
+    "akarKata": "adon",
+    "ejaan": "adonan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adukan tepung, santan, susu, dan lain-lain (sebagai bahan pembuat kue)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adukan semen dengan pasir dan sebagainya untuk pelekat batu bata atau penghalus dinding batu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil mengadon",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

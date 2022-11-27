@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.dik.si",
+    "akarKata": null,
+    "ejaan": "adiksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecanduan atau ketergantungan secara fisik dan mental terhadap suatu zat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketergantungan secara fisik maupun psikologis terhadap obat-obatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

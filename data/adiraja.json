@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.ra.ja",
+    "akarKata": null,
+    "ejaan": "adiraja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar raja yang tertinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

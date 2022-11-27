@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "administrator pangkalan data",
+    "akarKata": "administrator",
+    "ejaan": "administrator pangkalan data",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "komputer",
+        "tipeTeks": "-",
+        "definisi": "orang yang mengelola pangkalan data, seperti penentuan konten, struktur internal dan strategi akses pangkalan data, pemberi definisi pada keamanan dan integritas, serta pemantauan kinerja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

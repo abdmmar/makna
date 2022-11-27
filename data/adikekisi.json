@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.ke.ki.si",
+    "akarKata": null,
+    "ejaan": "adikêkisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekisi atom lain di antara kekisi atom hablur aslinya, sebagaimana terlihat pada hasil difraksi sinar X oleh atom kekisi hablur itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

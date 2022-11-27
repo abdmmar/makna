@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.mi.tans",
+    "akarKata": null,
+    "ejaan": "admitans",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran kemudahan arus bolak-balik untuk mengalir dalam suatu sirkuit listrik (kebalikan dari impedans, biasanya dilambangkan dengan huruf Y)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

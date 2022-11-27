@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.di.pek.to.mi",
+    "akarKata": null,
+    "ejaan": "adipektomi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bedah yang dilakukan untuk membuang lemak bawah kulit atau subkutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

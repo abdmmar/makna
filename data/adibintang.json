@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.di.bin.tang",
+    "akarKata": null,
+    "ejaan": "adibintang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintang lapangan; pemain andalan yang berbakat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintang panggung yang sangat berbakat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

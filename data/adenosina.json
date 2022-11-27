@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.de.no.si.na",
+    "akarKata": null,
+    "ejaan": "adenosina",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa adenina dan ribosa yang terdapat dalam asam nukleat dan molekul pembawa energi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat untuk mengobati detak jantung yang tidak teratur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]
