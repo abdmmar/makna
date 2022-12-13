@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ahli Taurat",
+    "akarKata": "ahli",
+    "ejaan": "ahli Taurat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "agama islam",
+        "tipeTeks": "-",
+        "definisi": "penganut ajaran kitab Taurat dan pengikut Nabi Musa a.s.",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "agama kristen",
+        "tipeTeks": "-",
+        "definisi": "pengajar dan penafsir Kitab Perjanjian Lama, khususnya kelima kitab Musa (Taurat atau Pentateukh)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

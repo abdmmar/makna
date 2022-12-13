@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.hai",
+    "akarKata": null,
+    "ejaan": "ahai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangkai binatang yang tinggal tulang belulangnya",
+        "contoh": "banyak -- di lubang bekas kuburan binatang itu",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

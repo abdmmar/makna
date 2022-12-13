@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gun",
+    "akarKata": null,
+    "ejaan": "agun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cagar(an); tanggungan; jaminan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "a.guk",
+    "akarKata": null,
+    "ejaan": "aguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiasan pada kalung (untuk anak-anak atau pengantin perempuan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.guk",
+    "akarKata": null,
+    "ejaan": "aguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga (melati atau tanjung) yang dirangkai dengan benang sehingga berbentuk seperti rantai, dipakai sebagai hiasan sanggul pengantin wanita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

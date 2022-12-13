@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ah.lul.ku.bur",
+    "akarKata": null,
+    "ejaan": "ahlulkubur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli kubur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

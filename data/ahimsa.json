@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.him.sa",
+    "akarKata": null,
+    "ejaan": "ahimsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ajaran agama Hindu dan Buddha untuk tidak menyakiti makhluk apa pun dan menghindari kekerasan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ajaran Mahatma Gandhi yang melarang membunuh (menyakiti) dan menggunakan kekerasan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

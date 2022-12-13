@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.hir",
+    "akarKata": null,
+    "ejaan": "ahir",
+    "baku": false,
+    "alt": "akhir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belakang; yang belakang sekali; kemudian",
+        "contoh": "suku kata yang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesudahan; penghabisan",
+        "contoh": "pada -- tahun ini",
+        "info": []
+      }
+    ]
+  }
+]

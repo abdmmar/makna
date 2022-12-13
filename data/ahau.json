@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.hau",
+    "akarKata": null,
+    "ejaan": "ahau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian ujung mata kail yang menyerupai duri atau onak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

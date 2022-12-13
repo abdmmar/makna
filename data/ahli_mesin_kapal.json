@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ahli mesin kapal",
+    "akarKata": "ahli",
+    "ejaan": "ahli mesin kapal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pelayaran",
+        "tipeTeks": "-",
+        "definisi": "perwira bagian mesin kapal niaga yang tugasnya menjalankan, merawat, dan memperbaiki semua mesin di kapal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

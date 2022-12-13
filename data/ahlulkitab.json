@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ah.lul.ki.tab",
+    "akarKata": null,
+    "ejaan": "ahlulkitab",
+    "baku": true,
+    "alt": "ahlilkitab",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli kitab",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaum Yahudi dengan kitab Tauratnya dan kaum Nasrani dengan kitab Injilnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

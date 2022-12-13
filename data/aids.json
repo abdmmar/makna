@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AIDS",
+    "akarKata": null,
+    "ejaan": "AIDS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit sistem kekebalan tubuh karena infeksi retrovirus HIV; dari acquired immune deficiency syndrome",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

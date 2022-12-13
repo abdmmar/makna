@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.her.ma.ti.pe",
+    "akarKata": null,
+    "ejaan": "ahêrmatipê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat karang yang tidak memiliki ganggang simbionnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

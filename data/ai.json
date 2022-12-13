@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ai",
+    "akarKata": null,
+    "ejaan": "ai",
+    "baku": true,
+    "alt": "aih",
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan heran dan sebagainya",
+        "contoh": "--, dari mana kau peroleh bunga-bunga itu?",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ai",
+    "akarKata": null,
+    "ejaan": "ai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat rindu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.i.boh.fo.bi.a",
+    "akarKata": null,
+    "ejaan": "aibohfobia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fobia terhadap palindrom",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ah.lu.su.nah",
+    "akarKata": null,
+    "ejaan": "ahlusunah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli sunah (waljamaah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

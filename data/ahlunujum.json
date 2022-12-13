@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ah.lu.nu.jum",
+    "akarKata": null,
+    "ejaan": "ahlunujum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli nujum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

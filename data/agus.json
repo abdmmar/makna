@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.gus",
+    "akarKata": null,
+    "ejaan": "agus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada anak laki-laki",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagus; elok; mulia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

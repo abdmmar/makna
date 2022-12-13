@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ah.lu.su.luk",
+    "akarKata": null,
+    "ejaan": "ahlusuluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli suluk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

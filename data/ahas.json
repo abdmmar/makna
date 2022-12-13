@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.has",
+    "akarKata": null,
+    "ejaan": "ahas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis rotan besar yang tumbuh di air atau di pinggir sungai",
+        "contoh": "ibu mencari -- untuk dijadikan nyiru",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]
