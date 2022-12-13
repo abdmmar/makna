@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "agen kemoterapi",
+    "akarKata": "agen",
+    "ejaan": "agen kemoterapi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "biologi",
+        "tipeTeks": "-",
+        "definisi": "bahan kimia yang menghambat pertumbuhan mikroorganisme pada kadar yang bisa ditoleransi oleh sel inangnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ge.ne.sis",
+    "akarKata": null,
+    "ejaan": "agenêsis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wanita yang rahimnya tidak berkembang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

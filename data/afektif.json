@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "a.fek.tif",
+    "akarKata": null,
+    "ejaan": "afektif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan perasaan (seperti takut, cinta)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "memengaruhi keadaan perasaan dan emosi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai gaya atau makna yang menunjukkan perasaan (tentang gaya bahasa atau makna)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

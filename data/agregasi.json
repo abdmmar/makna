@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ag.re.ga.si",
+    "akarKata": null,
+    "ejaan": "agregasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengumpulan sejumlah benda yang terpisah-pisah menjadi satu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejumlah tumbuhan atau binatang yang merupakan suatu kesatuan dalam kelompok yang lebih besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fik.sa.si",
+    "akarKata": null,
+    "ejaan": "afiksasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengafiksan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

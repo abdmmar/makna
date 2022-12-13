@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gil",
+    "akarKata": null,
+    "ejaan": "agil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kapal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

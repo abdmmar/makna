@@ -1,0 +1,16 @@
+[
+  {
+    "sukuKata": "afiks terbuka",
+    "akarKata": "afiks",
+    "ejaan": "afiks terbuka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "afiks yang hasil penerapannya masih dapat memperoleh afiks lain",
+        "contoh": "afiks “per” pada “pergunakan” merupakan -- terbuka",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ag.ra.ris",
+    "akarKata": null,
+    "ejaan": "agraris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengenai pertanian atau tanah pertanian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengenai pertanian atau cara hidup petani",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat pertanian",
+        "contoh": "negara kita adalah negara --",
+        "info": []
+      }
+    ]
+  }
+]

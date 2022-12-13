@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "a.gan",
+    "akarKata": null,
+    "ejaan": "agan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ganggu, goda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gan",
+    "akarKata": null,
+    "ejaan": "agan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "ganggu, goda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gan",
+    "akarKata": null,
+    "ejaan": "agan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "juragan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

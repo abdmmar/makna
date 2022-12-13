@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "ag.lu.ti.na.si",
+    "akarKata": null,
+    "ejaan": "aglutinasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggumpalan butir-butir darah merah, bakteri, tepung sari, dan spermatozoa yang disebabkan oleh penambahan aglutinin dari bahan yang bersangkutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyatuan sel atau bakteri akibat interaksi bakteri dan serum kekebalan yang bersangkutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengimbuhan pada akar kata yang mengakibatkan perubahan makna atau pemakaian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peleburan bunyi bahasa yang berdampingan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

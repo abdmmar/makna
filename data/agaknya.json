@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.gak.nya",
+    "akarKata": "agak",
+    "ejaan": "agaknya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kiranya; rupanya",
+        "contoh": "~ hari akan hujan",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "gerangan",
+        "contoh": "siapa ~ yang mengambil buku saya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.go.ni.a",
+    "akarKata": null,
+    "ejaan": "agonia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penderitaan berat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sekarat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

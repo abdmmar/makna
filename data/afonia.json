@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fo.ni.a",
+    "akarKata": null,
+    "ejaan": "afonia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kehilangan suara dan kemampuan untuk bicara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.li.kon",
+    "akarKata": null,
+    "ejaan": "aglikon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa organik (seperti fenol atau alkohol) yang bersenyawa dengan bagian glikosida yang bergula",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian bukan gula dari senyawa glikosida yang dapat dibebaskan dengan proses hidrolisis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

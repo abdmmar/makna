@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fa.ni.tik",
+    "akarKata": null,
+    "ejaan": "afanitik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tekstur batuan beku yang butiran kristal mineralnya terlalu kecil untuk diamati dengan mata telanjang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "mineralogi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

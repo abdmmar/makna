@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.ro.sa",
+    "akarKata": null,
+    "ejaan": "agarosa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "agar-agar bebas sulfat, digunakan dalam filtrasi gel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

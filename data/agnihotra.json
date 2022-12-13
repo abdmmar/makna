@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.ni.hot.ra",
+    "akarKata": null,
+    "ejaan": "agnihotra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kurban yang dipersembahkan kepada dewa api",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ritual melingkari kobaran api sebagai bentuk penghormatan kepada dewa api",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.met",
+    "akarKata": null,
+    "ejaan": "agamet",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sel tunggal yang mampu berkembang biak tanpa perkawinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

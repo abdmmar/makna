@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "agen pengguna",
+    "akarKata": "agen",
+    "ejaan": "agen pengguna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "komputer",
+        "tipeTeks": "-",
+        "definisi": "program yang membantu klien terhubung dengan server",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

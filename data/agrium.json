@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ri.um",
+    "akarKata": null,
+    "ejaan": "agrium",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komunitas pada lahan pertanian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

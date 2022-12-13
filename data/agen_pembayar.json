@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "agen pembayar",
+    "akarKata": "agen",
+    "ejaan": "agen pembayar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ekonomi dan keuangan",
+        "tipeTeks": "-",
+        "definisi": "agen yang bertindak sebagai pembayar dan penarik biaya untuk jasa pelayanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

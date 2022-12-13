@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fo.ris.me",
+    "akarKata": null,
+    "ejaan": "aforismê",
+    "baku": true,
+    "alt": "aporisma",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan yang padat dan ringkas tentang sikap hidup atau kebenaran umum (seperti peribahasa)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

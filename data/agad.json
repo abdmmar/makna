@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gad",
+    "akarKata": null,
+    "ejaan": "agad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang terdapat di tepi pantai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

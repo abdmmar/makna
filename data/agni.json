@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Ag.ni",
+    "akarKata": null,
+    "ejaan": "Agni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dewa yang bertugas menguasai api dan membawa kurban yang dipersembahkan manusia kepada dewa; dewa api; dewa perang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

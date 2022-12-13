@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ag.ro.ki.mi.a",
+    "akarKata": null,
+    "ejaan": "agrokimia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan kimia untuk pertanian, misalnya insektisida",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

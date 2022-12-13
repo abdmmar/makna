@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ag.",
+    "akarKata": null,
+    "ejaan": "Ag",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "agama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

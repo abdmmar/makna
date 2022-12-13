@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "a.gem",
+    "akarKata": null,
+    "ejaan": "agêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seikat padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gem",
+    "akarKata": null,
+    "ejaan": "agêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "abu cerutu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

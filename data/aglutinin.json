@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.lu.ti.nin",
+    "akarKata": null,
+    "ejaan": "aglutinin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "substansi yang dapat menyebabkan penggumpalan bakteri atau sel darah merah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekumpulan senyawa yang terbentuk dalam darah akibat inokulasi atau infeksi bakteri yang dapat menyebabkan penggumpalan bersama bakteri itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

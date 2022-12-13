@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gi.ri.a",
+    "akarKata": null,
+    "ejaan": "agiria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tidak terdapat konvolusi permukaan otak karena gangguan perkembangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

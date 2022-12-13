@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "agen tunggal",
+    "akarKata": "agen",
+    "ejaan": "agen tunggal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ekonomi dan keuangan",
+        "tipeTeks": "-",
+        "definisi": "penyalur yang menyelenggarakan distribusi dan penjualan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "ekonomi dan keuangan",
+        "tipeTeks": "-",
+        "definisi": "penyalur satu-satunya untuk daerah tertentu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

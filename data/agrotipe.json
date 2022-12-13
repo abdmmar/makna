@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ro.ti.pe",
+    "akarKata": null,
+    "ejaan": "agrotipê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ras atau varietas pertanian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

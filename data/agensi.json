@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.gen.si",
+    "akarKata": null,
+    "ejaan": "agensi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantor agen",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perusahaan yang berkenaan dengan kegiatan bisnis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "divisi administratif pemerintahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

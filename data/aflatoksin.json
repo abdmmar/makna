@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "af.la.tok.sin",
+    "akarKata": null,
+    "ejaan": "aflatoksin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok toksin yang dihasilkan terutama oleh jenis kapang Aspergillus flavus, bersifat karsinogenik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "metabolik sekunder dari berbagai fungi yang membentuk sekelompok senyawa kompleks yang secara kimiawi sejenis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

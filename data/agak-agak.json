@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.gak-a.gak",
+    "akarKata": "agak",
+    "ejaan": "agak-agak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "hati-hati",
+        "contoh": "~ bertutur pada malam hari",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kiranya; gerangan",
+        "contoh": "apa ~ maksud kedatangannya kemari?",
+        "info": []
+      }
+    ]
+  }
+]

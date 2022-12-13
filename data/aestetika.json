@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.es.te.ti.ka",
+    "akarKata": null,
+    "ejaan": "aestetika",
+    "baku": false,
+    "alt": "estetika",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang filsafat yang menelaah dan membahas tentang seni dan keindahan serta tanggapan manusia terhadapnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepekaan terhadap seni dan keindahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

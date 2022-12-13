@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "a.go.nis",
+    "akarKata": null,
+    "ejaan": "agonis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggerak utama atau otot yang secara langsung bertanggung jawab atas perubahan posisi suatu bagian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat yang dikombinasikan dengan reseptor untuk memunculkan akibat tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "otot yang bekerja berlawanan dengan otot antagonis dan menghasilkan gerakan prima dari sebuah sendi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fi.da.vit",
+    "akarKata": null,
+    "ejaan": "afidavit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberian keterangan tertulis di bawah sumpah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "af.ri.kat",
+    "akarKata": null,
+    "ejaan": "afrikat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabungan bunyi hambat dan frikatif; bunyi hambat dengan pelepas frikatif, misalnya bunyi pertama pada cakap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

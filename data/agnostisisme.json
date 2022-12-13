@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.nos.ti.sis.me",
+    "akarKata": null,
+    "ejaan": "agnostisismê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paham yang mempertahankan pendirian bahwa manusia itu kekurangan informasi atau kemampuan rasional untuk membuat pertimbangan tentang kebenaran tertinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sosiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keyakinan bahwa manusia tidak memiliki pengetahuan tentang Tuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "filsafat",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

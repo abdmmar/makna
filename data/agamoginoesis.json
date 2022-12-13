@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.mo.gi.no.e.sis",
+    "akarKata": null,
+    "ejaan": "agamoginoesis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang memiliki bunga betina dan bunga netral pada perbungaan yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ra.nu.lo.sit",
+    "akarKata": null,
+    "ejaan": "agranulosit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sel darah putih yang tidak bergranular; leukosit limfoid",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

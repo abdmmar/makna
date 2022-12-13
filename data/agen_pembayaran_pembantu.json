@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "agen pembayaran pembantu",
+    "akarKata": "agen",
+    "ejaan": "agen pembayaran pembantu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "keuangan",
+        "tipeTeks": "-",
+        "definisi": "agen pembayaran yang ditunjuk oleh agen utama pembayaran untuk membantu melaksanakan pembayaran obligasi pokok beserta bunganya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

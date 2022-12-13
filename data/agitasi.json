@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.gi.ta.si",
+    "akarKata": null,
+    "ejaan": "agitasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasutan kepada orang banyak (untuk mengadakan huru-hara, pemberontakan, dan sebagainya), biasanya dilakukan oleh tokoh atau aktivis partai politik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pidato yang berapi-api untuk memengaruhi massa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tindakan mengaduk-aduk (tentang air, deterjen, pakaian) untuk mengeluarkan kotoran pada mesin cuci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ag.re.si",
+    "akarKata": null,
+    "ejaan": "agresi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyerangan suatu negara terhadap negara lain; serangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasaan marah atau tindakan kasar akibat kekecewaan atau kegagalan dalam mencapai pemuasan atau tujuan yang dapat diarahkan kepada orang atau benda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan bermusuhan yang bersifat penyerangan fisik ataupun psikis terhadap pihak lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

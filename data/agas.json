@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "a.gas",
+    "akarKata": null,
+    "ejaan": "agas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lalat kecil berwarna abu-abu yang gigitannya terasa pedih dan gatal; rengit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serangga kecil yang sangat mengganggu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gas",
+    "akarKata": null,
+    "ejaan": "agas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tikus kecil yang merusak tanaman padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gas",
+    "akarKata": null,
+    "ejaan": "agas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musim yang ditandai dengan melimpahnya anak ikan di sungai-sungai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

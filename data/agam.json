@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "a.gam",
+    "akarKata": null,
+    "ejaan": "agam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar, gagah, kuat, dan tegap",
+        "contoh": "tubuhnya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gam",
+    "akarKata": null,
+    "ejaan": "agam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada akhir; larut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gam",
+    "akarKata": null,
+    "ejaan": "agam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bandeng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "A.gam",
+    "akarKata": null,
+    "ejaan": "Agam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Sumatra Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ag.re.sif",
+    "akarKata": null,
+    "ejaan": "agresif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat atau bernafsu menyerang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cenderung (ingin) menyerang sesuatu yang dipandang sebagai hal atau situasi yang mengecewakan, menghalangi, atau menghambat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

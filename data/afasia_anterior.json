@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "afasia anterior",
+    "akarKata": "afasia",
+    "ejaan": "afasia anterior",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "linguistik",
+        "tipeTeks": "-",
+        "definisi": "afasia yang terjadi karena kerusakan jaringan pada bagian depan otak dan ditandai dengan wicara yang sulit dan tersendat-sendat pada penderitanya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

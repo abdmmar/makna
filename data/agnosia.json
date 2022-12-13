@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.no.si.a",
+    "akarKata": null,
+    "ejaan": "agnosia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketidaksanggupan mengenali benda dan artinya, biasanya disebabkan oleh kerusakan pada otak atau susunan saraf",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilangnya kemampuan untuk memahami informasi indra",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

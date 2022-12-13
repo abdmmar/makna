@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ag.lo.me.ra.si",
+    "akarKata": null,
+    "ejaan": "aglomêrasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengumpulan atau pemusatan dalam lokasi atau kawasan tertentu",
+        "contoh": "Pemerintah DKI menetapkan daerah Pulogadung sebagai tempat -- pabrik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggumpalan atau penumpukan partikel atau zat menjadi satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "metode penyusunan hierarki dengan terus-menerus, secara bertahap, menautkan bersama satuan-satuan kecil menjadi satuan berperingkat lebih tinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.e.ti.o.lo.gi",
+    "akarKata": null,
+    "ejaan": "aetiologi",
+    "baku": false,
+    "alt": "etiologi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang biologi tentang penyebab penyakit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian ilmu penyakit tanaman, khususnya mengenai penyebab utama penyakit, kodrat, sifat, dan ciri-ciri patogen serta hubungannya dengan tanaman inangnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang ilmu kedokteran tentang sebab dan asal penyakit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

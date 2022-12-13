@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "af.de.ling",
+    "akarKata": null,
+    "ejaan": "afdeling",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seksi; bagian; divisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

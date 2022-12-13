@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.rip.ni.a",
+    "akarKata": null,
+    "ejaan": "agripnia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tidak dapat tidur; insomnia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

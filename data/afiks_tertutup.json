@@ -1,0 +1,16 @@
+[
+  {
+    "sukuKata": "afiks tertutup",
+    "akarKata": "afiks",
+    "ejaan": "afiks tertutup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "afiks yang hasil penerapannya tidak dapat dibubuhi afiks lain",
+        "contoh": "afiks “di-” pada “dimengerti” merupakan -- tertutup",
+        "info": []
+      }
+    ]
+  }
+]

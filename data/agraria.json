@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ag.ra.ri.a",
+    "akarKata": null,
+    "ejaan": "agraria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "urusan pertanian atau tanah pertanian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "urusan pemilikan tanah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

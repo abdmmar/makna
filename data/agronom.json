@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ag.ro.nom",
+    "akarKata": null,
+    "ejaan": "agronom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pakar agronomi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "a.gon",
+    "akarKata": null,
+    "ejaan": "agon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adegan dalam drama yang menunjukkan perdebatan (perselisihan) antara tokoh protagonis dan tokoh antagonis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanda konflik mendasar dan esensial yang berasal dari masa Yunani kuno tentang tragedi klasik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gon",
+    "akarKata": null,
+    "ejaan": "agon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis di peta yang menghubungkan tempat-tempat yang variasinya nol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gon",
+    "akarKata": null,
+    "ejaan": "agon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membersihkan area persawahan yang telah dibajak sebelum ditanami padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

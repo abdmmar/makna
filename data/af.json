@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AF",
+    "akarKata": null,
+    "ejaan": "AF",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "frekuensi radio; dari audio frequency",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.mo.go.ni",
+    "akarKata": null,
+    "ejaan": "agamogoni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkembangbiakan aseksual melalui perkembangan suatu individu baru dari satu sel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

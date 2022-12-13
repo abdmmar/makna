@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gau",
+    "akarKata": null,
+    "ejaan": "agau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyuapkan makanan dengan sendok hingga ke anak tekak",
+        "contoh": "ibu muda itu -- anaknya sehingga terbatuk-batuk",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

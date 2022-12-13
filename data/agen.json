@@ -1,0 +1,87 @@
+[
+  {
+    "sukuKata": "a.gen",
+    "akarKata": null,
+    "ejaan": "agen",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang atau perusahaan perantara yang mengusahakan penjualan bagi perusahaan lain atas nama pengusaha; perwakilan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wakil pengusaha yang merundingkan, memberikan jasa layanan, atau menutup perjanjian asuransi dengan ketentuan yang ada",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "administrasi dan kepegawaian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaki tangan atau mata-mata negara asing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyebab",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perantara bisnis yang terkait dengan teater, biasanya terbagi atas agen pemeran dan agen pemilihan peran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

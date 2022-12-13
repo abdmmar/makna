@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ro.e.ko.ti.pe",
+    "akarKata": null,
+    "ejaan": "agroekotipê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ekotipe edafik yang teradaptasi pada tanah pertanian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

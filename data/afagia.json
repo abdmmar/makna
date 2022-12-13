@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fa.gi.a",
+    "akarKata": null,
+    "ejaan": "afagia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketakmampuan untuk menelan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          }
+        ]
+      }
+    ]
+  }
+]

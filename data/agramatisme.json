@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ra.ma.tis.me",
+    "akarKata": null,
+    "ejaan": "agramatismê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ketidakmampuan untuk memahami atau mengungkapkan ujaran gramatikal karena cacat psikologis atau sebab lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

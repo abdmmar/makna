@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "a.gal",
+    "akarKata": null,
+    "ejaan": "agal",
+    "baku": true,
+    "alt": "agel",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serat kulit batang gebang (untuk dibuat tali)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gal",
+    "akarKata": null,
+    "ejaan": "agal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hewan pelagik yang hidup di perairan tropis dan subtropis, berat mencapai 9 kg, panjang mencapai 160 cm, tersebar di perairan Atlantik Utara sampai Afrika Selatan; penyu belimbing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

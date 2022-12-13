@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ma.to.plo.id",
+    "akarKata": null,
+    "ejaan": "agmatoploid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peningkatan jumlah kromosom karena fragmentasi kromosom telosentrik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

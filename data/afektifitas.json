@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fek.ti.fi.tas",
+    "akarKata": null,
+    "ejaan": "afektifitas",
+    "baku": false,
+    "alt": "afektivitas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemampuan atau kecenderungan untuk mengalami emosi, baik positif maupun negatif, dan bereaksi terhadap emosi tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fe.re.sis",
+    "akarKata": null,
+    "ejaan": "aferesis",
+    "baku": true,
+    "alt": "afesis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanggalan huruf awal atau suku awal kata (misalnya tirta marta dari tirta amarta, kan dari bukan atau akan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

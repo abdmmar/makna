@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fi.bri.no.ge.ne.mia",
+    "akarKata": null,
+    "ejaan": "afibrinogenemia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelainan sistem pembekuan darah yang bercirikan ketidakmampuan menyintesis fibrinogen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

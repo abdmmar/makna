@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "agen utama pembayaran",
+    "akarKata": "agen",
+    "ejaan": "agen utama pembayaran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "keuangan",
+        "tipeTeks": "-",
+        "definisi": "wali amanat yang karena tugas dan fungsinya dalam mewakili pemegang obligasi bertugas melaksanakan pembayaran obligasi beserta bunganya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

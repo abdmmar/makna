@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ag.re.gat",
+    "akarKata": null,
+    "ejaan": "agregat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil proses agregasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesin kecil pembangkit listrik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan-bahan mineral tidak bergerak, misalnya pasir, debu, batu, kerikil, pecahan batu yang bercampur semen, kapur, atau bahan aspal untuk mengikat campuran itu menjadi seperti beton",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan yang terbentuk oleh partikel yang terhimpun dalam suatu kelompok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "farmasi dan farmakologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah skor setelah dua tim yang sama melakukan pertandingan kandang dan tandang (tentang sepak bola)",
+        "contoh": "meski kalah, MU tetap lolos ke babak final karena unggul -- 3-2",
+        "info": []
+      }
+    ]
+  }
+]

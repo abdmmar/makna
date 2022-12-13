@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ri.o.lo.gi",
+    "akarKata": null,
+    "ejaan": "agriologi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengkajian sejarah dan adat istiadat suku primitif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

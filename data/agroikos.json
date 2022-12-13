@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ro.i.kos",
+    "akarKata": null,
+    "ejaan": "agroikos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelaku yang berperan sebagai pemain yang menjadi bulan-bulanan atau bahan tertawaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "a.gak",
+    "akarKata": null,
+    "ejaan": "agak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkiraan; persangkaan",
+        "contoh": "-- hati saya ia tidak dapat datang malam ini",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kira-kira; lebih kurang; barang (dalam arti lebih kurang)",
+        "contoh": "ia akan pergi -- dua minggu",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak terlalu",
+        "contoh": "-- jauh juga rumahnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gak",
+    "akarKata": null,
+    "ejaan": "agak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkawinan atas dasar saling menyukai dan tanpa paksaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "benuaq",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "a.gak",
+    "akarKata": null,
+    "ejaan": "agak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keranjang rotan untuk membawa barang, bentuknya bulat dan panjang, diberi tali, dipakai dengan cara disangkutkan di kedua bahu",
+        "contoh": "jika kita pergi piknik selalu membawa -- untuk tempat menyimpan makanan",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "afspraak",
+    "akarKata": null,
+    "ejaan": "afspraak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "janji lisan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

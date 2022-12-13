@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ag.na.tus",
+    "akarKata": null,
+    "ejaan": "agnatus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mempunyai rahang, seperti pada serangga yang struktur mulutnya tidak sempurna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ag.na.tus",
+    "akarKata": null,
+    "ejaan": "agnatus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan antarkalimat yang mengandung unsur leksikal utama yang sama dengan struktur yang berbeda, tetapi teratur dan sistematis (terdapat pada klausa aktif dan pasif)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

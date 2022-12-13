@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fan.to.bi.on",
+    "akarKata": null,
+    "ejaan": "afantobion",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk berukuran ultramikroskopik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

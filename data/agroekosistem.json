@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.ro.e.ko.sis.tem",
+    "akarKata": null,
+    "ejaan": "agroekosistem",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertanian yang bersifat hubungan timbal balik antara sekelompok manusia (masyarakat) dan lingkungan fisik dari lingkungan hidupnya guna memungkinkan kelangsungan hidup kelompok manusia (masyarakat) itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ekosistem dalam lingkungan pertanian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

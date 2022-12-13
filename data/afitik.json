@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.fi.tik",
+    "akarKata": null,
+    "ejaan": "afitik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "periode sejarah geologi bumi sebelum munculnya tumbuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah perairan dangkal dengan kedalaman di bawah 100 m yang tidak memiliki rumput laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

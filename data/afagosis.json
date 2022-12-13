@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fa.go.sis",
+    "akarKata": null,
+    "ejaan": "afagosis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketakmampuan untuk makan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          }
+        ]
+      }
+    ]
+  }
+]

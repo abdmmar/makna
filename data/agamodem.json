@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.mo.dem",
+    "akarKata": null,
+    "ejaan": "agamodêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dem dari sekelompok individu yang umumnya berkembang biak secara aseksual",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

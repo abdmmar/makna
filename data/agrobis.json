@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ag.ro.bis",
+    "akarKata": null,
+    "ejaan": "agrobis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "agrobisnis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

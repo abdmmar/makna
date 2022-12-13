@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gi.o",
+    "akarKata": null,
+    "ejaan": "agio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selisih lebih antara hasil penjualan saham pada waktu emisi dan nilai nominalnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

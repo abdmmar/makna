@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "afasia global",
+    "akarKata": "afasia",
+    "ejaan": "afasia global",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "kedokteran dan fisiologi",
+        "tipeTeks": "-",
+        "definisi": "ketidakmampuan memahami dan mengekspresikan bahasa lisan dan bahasa tulisan, biasanya hanya mampu memahami dan mengekspresikan kata atau frasa yang singkat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "linguistik",
+        "tipeTeks": "-",
+        "definisi": "afasia yang menyangkut kelainan produksi dan pemahaman bahasa yang gawat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

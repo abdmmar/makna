@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.fir.ma.si",
+    "akarKata": null,
+    "ejaan": "afirmasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penetapan yang positif; penegasan; peneguhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan atau pengakuan yang sungguh-sungguh (di bawah ancaman hukum) oleh orang yang menolak melakukan sumpah; pengakuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

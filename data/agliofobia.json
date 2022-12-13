@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.li.o.fo.bi.a",
+    "akarKata": null,
+    "ejaan": "agliofobia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fobia terhadap rasa sakit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

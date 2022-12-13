@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a.gar-a.gar",
+    "akarKata": null,
+    "ejaan": "agar-agar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ganggang laut yang dapat dimakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari ganggang laut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat berlendir yang dihasilkan oleh Eucheuma spinosum atau ganggang laut lain (banyak digunakan sebagai medium biakan bakteri dan jamur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

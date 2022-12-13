@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.gai",
+    "akarKata": null,
+    "ejaan": "agai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menganggap diri sendiri melebihi orang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

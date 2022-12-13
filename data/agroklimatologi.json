@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ro.kli.ma.to.lo.gi",
+    "akarKata": null,
+    "ejaan": "agroklimatologi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu yang meneliti seluk-beluk iklim dalam kaitannya dengan produktivitas makhluk yang bernilai pertanian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

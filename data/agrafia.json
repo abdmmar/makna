@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.ra.fi.a",
+    "akarKata": null,
+    "ejaan": "agrafia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketidakmampuan menulis sebagai akibat kerusakan atau luka pada otak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

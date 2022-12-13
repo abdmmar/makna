@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "a.fi.ni.tas",
+    "akarKata": null,
+    "ejaan": "afinitas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketertarikan atau simpati yang ditandai oleh persamaan kepentingan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecenderungan suatu unsur atau senyawa untuk membentuk ikatan kimia dengan unsur atau senyawa lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan antara bahasa-bahasa yang menunjukkan kemiripan fonologis atau gramatikal karena kontak atau tipologi, bukan karena kekerabatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

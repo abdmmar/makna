@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.me.on",
+    "akarKata": null,
+    "ejaan": "agameon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organisme yang tidak memproduksi gamet, berkembang biak secara tidak kawin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

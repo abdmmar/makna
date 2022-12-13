@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ag.lo.me.rat",
+    "akarKata": null,
+    "ejaan": "aglomêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gumpalan batuan yang terdiri atas komponen batu bersudut, batu bulat, atau kerikil yang pekat menjadi satu karena adanya bahan perekat (misalnya tanah liat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batuan sedimen atau batuan endapan vulkanis yang diikat oleh abu kepundan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

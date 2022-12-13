@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fu.i",
+    "akarKata": null,
+    "ejaan": "afui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala jenis pohon yang daunnya bisa dimakan manusia",
+        "contoh": "daun dari --, seperti pepaya, enak dimasak",
+        "info": [
+          {
+            "sumber": "abui",
+            "sumberTeks": "bahasa di provinsi nusa tenggara timur"
+          }
+        ]
+      }
+    ]
+  }
+]

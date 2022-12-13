@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.fi.li.a.si",
+    "akarKata": null,
+    "ejaan": "afiliasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertalian sebagai anggota atau cabang; perhubungan",
+        "contoh": "beberapa universitas di negeri ini mempunyai -- dengan universitas atau perguruan tinggi di luar negeri",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk kerja sama antara dua lembaga pendidikan, biasanya yang satu lebih besar daripada yang lain, tetapi masing-masing berdiri sendiri; bantuan yang diberikan oleh lembaga yang lebih besar dalam bentuk personel, peralatan, atau fasilitas pendidikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

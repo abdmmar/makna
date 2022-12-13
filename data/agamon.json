@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.ga.mon",
+    "akarKata": null,
+    "ejaan": "agamon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "individu aseksual atau generasi yang menghasilkan gamet",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

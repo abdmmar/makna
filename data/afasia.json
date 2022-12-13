@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.fa.si.a",
+    "akarKata": null,
+    "ejaan": "afasia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kehilangan sebagian atau seluruh kemampuan bicara karena penyakit, cacat, atau cedera pada otak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

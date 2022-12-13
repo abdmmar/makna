@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "a.fe.ren",
+    "akarKata": null,
+    "ejaan": "afêren",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saraf yang membawa rangsangan ke susunan saraf pusat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghantar impuls saraf dari organ indra menuju sistem saraf pusat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

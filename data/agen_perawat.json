@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "agen perawat",
+    "akarKata": "agen",
+    "ejaan": "agen perawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "biologi",
+        "tipeTeks": "-",
+        "definisi": "substansi yang meningkatkan laju kehilangan plasmid selama pertumbuhan bakteri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

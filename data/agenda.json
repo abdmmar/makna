@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.gen.da",
+    "akarKata": null,
+    "ejaan": "agenda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku catatan yang bertanggal untuk satu tahun",
+        "contoh": "acara rapat itu telah dicatat dalam --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "acara (yang akan dibicarakan dalam rapat)",
+        "contoh": "hal itu tercantum juga dalam -- rapat",
+        "info": []
+      }
+    ]
+  }
+]
