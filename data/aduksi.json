@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.duk.si",
+    "akarKata": null,
+    "ejaan": "aduksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pergerakan anggota tubuh mendekati poros median atau mendekati badan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

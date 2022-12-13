@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.du.sen",
+    "akarKata": null,
+    "ejaan": "adusen",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "otot yang membawa bagian tubuh secara bersama-sama atau menggerakkannya mendekati tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

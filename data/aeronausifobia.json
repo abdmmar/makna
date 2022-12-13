@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.na.u.si.fo.bia",
+    "akarKata": null,
+    "ejaan": "aeronausifobia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fobia hendak muntah karena mabuk udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

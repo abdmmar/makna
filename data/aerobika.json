@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "a.e.ro.bi.ka",
+    "akarKata": null,
+    "ejaan": "aerobika",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem pemeliharaan jasmani yang dirancang untuk meningkatkan fungsi pernapasan dan peredaran darah melalui latihan, seperti lari-lari, berjalan kaki, berenang yang menaikkan penggunaan oksigen",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan aerobik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

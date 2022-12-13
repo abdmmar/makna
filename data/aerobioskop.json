@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.bi.o.skop",
+    "akarKata": null,
+    "ejaan": "aerobioskop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengetahui kandungan bakteri di suatu sampel udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

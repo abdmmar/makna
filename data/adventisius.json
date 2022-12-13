@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ad.ven.ti.si.us",
+    "akarKata": null,
+    "ejaan": "adventisius",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "timbul atau terjadi secara sporadis atau dalam tempat yang tidak biasa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan akar atau tunas yang tumbuh bukan pada tempat yang seharusnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kehutanan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

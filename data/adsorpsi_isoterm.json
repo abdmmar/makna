@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "adsorpsi isoterm",
+    "akarKata": "adsorpsi",
+    "ejaan": "adsorpsi isoterm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "kimia",
+        "tipeTeks": "-",
+        "definisi": "adsorpsi yang terjadi pada suhu tetap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

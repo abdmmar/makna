@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.to.no.me.ter",
+    "akarKata": null,
+    "ejaan": "aerotonometêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "instrumen untuk menentukan tekanan gas dalam darah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

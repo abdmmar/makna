@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.re.no.re.sep.tor",
+    "akarKata": null,
+    "ejaan": "adrenorêseptor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hormon yang memengaruhi homeostasis energi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

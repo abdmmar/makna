@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.e.ro.di.na.mi.ka",
+    "akarKata": null,
+    "ejaan": "aerodinamika",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu yang berhubungan dengan gerakan udara, gas lain, atau kakas yang bekerja pada benda padat apabila bergerak melalui gas atau apabila gas yang mengalir mengenai atau mengelilingi benda padat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang dari ilmu mekanika yang berkaitan dengan gerakan udara dan gas, digunakan dalam mendesain pesawat terbang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

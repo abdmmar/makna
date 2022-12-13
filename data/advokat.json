@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ad.vo.kat",
+    "akarKata": null,
+    "ejaan": "advokat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli hukum yang berwenang sebagai penasihat atau pembela perkara dalam pengadilan; pengacara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ad.vo.kat",
+    "akarKata": null,
+    "ejaan": "advokat",
+    "baku": false,
+    "alt": "alpukat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tingginya mencapai 20 m, daun elips, bunga kecil berwarna hijau muda kekuningan, buah membulat telur dan berkulit hijau atau cokelat keunguan, berdaging tebal berwarna kuning kehijau-hijauan, serta lunak; avokad",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah alpukat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

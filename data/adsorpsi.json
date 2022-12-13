@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.sorp.si",
+    "akarKata": null,
+    "ejaan": "adsorpsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses atau kemampuan suatu bahan untuk memegang atau mengonsentrasikan gas, cairan, atau zat terlarut pada permukaannya secara adhesif; penjerapan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

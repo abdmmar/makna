@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.e.ri.al",
+    "akarKata": null,
+    "ejaan": "aerial",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sifat atau keadaan yang berkaitan dengan ruang udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sistem radio yang memancarkan tenaga ke ruang angkasa atau yang menerima tenaga dari ruang angkasa, atau antarmuka tempat terjadinya perubahan dari gelombang elektromagnetik terpandu ke gelombang elektromagnetik bebas, atau sebaliknya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

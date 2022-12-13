@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.fi.a.ro.lo.gi",
+    "akarKata": null,
+    "ejaan": "aerofiarologi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu yang membahas masalah kesehatan (daya tahan tubuh) ketika di udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

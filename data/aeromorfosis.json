@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.mor.fo.sis",
+    "akarKata": null,
+    "ejaan": "aeromorfosis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan bentuk karena terpapar pada udara atau angin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

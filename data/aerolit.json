@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.lit",
+    "akarKata": null,
+    "ejaan": "aerolit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "meteorit yang terutama terdiri atas mineral silikat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

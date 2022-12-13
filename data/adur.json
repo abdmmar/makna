@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.dur",
+    "akarKata": null,
+    "ejaan": "adur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerangka bakul (dari rotan, kayu, atau bambu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "putuk",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

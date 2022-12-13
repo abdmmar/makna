@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "a.du.hai",
+    "akarKata": null,
+    "ejaan": "aduhai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan rasa duka, kagum, dan sebagainya yang lebih mendalam daripada aduh",
+        "contoh": "-- biji mata Bunda, sampai hatikah Ananda meninggalkan Bunda",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hebat; luar biasa",
+        "contoh": "selain pecatur yang --, ia juga seorang pemain pingpong yang baik",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

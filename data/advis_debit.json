@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "advis debit",
+    "akarKata": "advis",
+    "ejaan": "advis debit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "keuangan",
+        "tipeTeks": "-",
+        "definisi": "surat pemberitahuan bank kepada nasabah tentang adanya pengurangan atau perubahan dana pada rekening serta alasannya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

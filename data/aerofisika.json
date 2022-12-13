@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.fi.si.ka",
+    "akarKata": null,
+    "ejaan": "aerofisika",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang fisika yang berhubungan dengan perancangan, pembuatan, dan kerja peranti aerodinamik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

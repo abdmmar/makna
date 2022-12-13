@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.du pa.ngul",
+    "akarKata": null,
+    "ejaan": "adu pangul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menikah secara adat",
+        "contoh": "karena jauh dari Kantor Catatan Sipil, kedua pasangan melaksanakan -- dulu untuk mengesahkan hubungan mereka",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

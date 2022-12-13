@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "a.dum.la",
+    "akarKata": null,
+    "ejaan": "adumla",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "administrasi umum lanjutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

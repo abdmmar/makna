@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.tak.sis",
+    "akarKata": null,
+    "ejaan": "aerotaksis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan terarah makhluk menuju (positif) atau menjauhi (negatif) udara atau konsentrasi oksigen terlarut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

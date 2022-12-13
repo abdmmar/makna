@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ad.vo.ka.si",
+    "akarKata": null,
+    "ejaan": "advokasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembelaan",
+        "contoh": "penggagas berdirinya lembaga bantuan hukum ini kembali menekuni dunia --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.me.ka.ni.ka",
+    "akarKata": null,
+    "ejaan": "aeromekanika",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu mengenai pergerakan atau keseimbangan udara dan gas, memiliki dua cabang, yakni aerostatika dan aerodinamika",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.ver.bi.a",
+    "akarKata": null,
+    "ejaan": "adverbia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata yang memberikan keterangan pada verba, adjektiva, nomina predikatif, atau kalimat, misalnya sangat, lebih, tidak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.stra.tum",
+    "akarKata": null,
+    "ejaan": "adstratum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa atau bentuk-bentuk bahasa yang memengaruhi bahasa lain yang lebih dominan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

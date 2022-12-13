@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "a.e.ro",
+    "akarKata": null,
+    "ejaan": "aêro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aeronautik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

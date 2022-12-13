@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.sor.bat",
+    "akarKata": null,
+    "ejaan": "adsorbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang terjerap pada permukaan zat lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

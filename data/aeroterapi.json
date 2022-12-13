@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.te.ra.pi",
+    "akarKata": null,
+    "ejaan": "aeroterapi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengobatan dengan udara di alam terbuka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

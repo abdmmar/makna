@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "a.e.ro.mo.nas",
+    "akarKata": null,
+    "ejaan": "aeromonas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "marga bakteri suku Vibrionaceae, berbentuk batang lurus, motil, dengan ujung bundar, umumnya patogenik terhadap hewan laut dan air tawar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mikroorganisme yang menyebabkab keracunan makanan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

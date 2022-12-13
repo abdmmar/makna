@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ad.ver.bi.al",
+    "akarKata": null,
+    "ejaan": "adverbial",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berfungsi sebagai adverbia, tetapi tidak berinfleksi seperti adverbia biasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat atau berfungsi sebagai adverbia, misalnya frasa adverbial",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

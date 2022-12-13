@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "a.e.ro.mag.ne.tik",
+    "akarKata": null,
+    "ejaan": "aeromagnetik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan pengukuran medan magnet bumi dari pesawat udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

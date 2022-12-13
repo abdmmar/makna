@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.re.ner.gik",
+    "akarKata": null,
+    "ejaan": "adrenergik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "diaktifkan atau disekresi oleh adrenalina atau zat yang serupa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]
