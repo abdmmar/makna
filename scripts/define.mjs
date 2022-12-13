@@ -200,6 +200,7 @@ async function getKatlaWordsDefinition(lastWord) {
 }
 
 const word = process.argv[2];
+console.log("🚀 ~ file: define.mjs ~ line 203 ~ word", word)
 
 switch (word) {
   case 'len':

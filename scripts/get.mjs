@@ -4,6 +4,9 @@ import axios from 'axios';
 import { fileURLToPath } from 'url';
 import { request } from 'undici'
 import cheerio from 'cheerio';
+import https from 'https'
+import http from 'http'
+import { SocksProxyAgent } from 'socks-proxy-agent';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -11,6 +14,12 @@ const __dirname = path.dirname(__filename);
 
 const errorWordsPath = path.join(__dirname, '../error-words.json')
 
+const headersOptions = {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'Accept-Encoding': 'gzip, deflate, br',
+  'accept-language': 'en-GB,en;q=0.9'
+}
 
 function cleanup(text) {
   return text.trim().replace(/\d/g, '').replace(/\//g, '');;
@@ -20,14 +29,67 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+function createSocksProxy(host, port, protocol) {
+  const proxyOptions = `${protocol}://${host}:${port}`;
+  const socksProxy = new SocksProxyAgent(proxyOptions);
+  return {
+    httpsAgent: socksProxy
+  }
+}
+
+function createHttpProxy(host, port, protocol) {
+  const httpsAgent = new https.Agent({ keepAlive: true })
+  // const httpAgent = new http.Agent({ keepAlive: true })
+  const proxy = {
+    protocol,
+    host,
+    port
+  }
+
+  return {
+    httpsAgent,
+    // httpAgent,
+    proxy
+  }
+}
+
+async function createProxy() {
+  const resProxy = await axios.get(`https://gimmeproxy.com/api/getProxy`)
+  const dataProxy = await resProxy.data
+
+  switch (dataProxy.protocol) {
+    case 'https':
+      const httpProxy = createHttpProxy(dataProxy.ip, dataProxy.port, dataProxy.protocol)
+      return httpProxy
+    case 'socks5':
+      const socksProxy = createSocksProxy(dataProxy.ip, dataProxy.port, dataProxy.protocol)
+      return socksProxy
+
+    default:
+      return {
+        httpsAgent: new https.Agent({ keepAlive: true })
+      }
+  }
+
+}
+
 async function getDefinitions(word) {
-  await sleep(10000)
+  await sleep(10000 + Math.round(Math.random() * 10000))
+  // const proxy = await createProxy()
+  // const res = await axios.get(`https://kbbi.kemdikbud.go.id/entri/${word}`, {
+  //   headers: {
+  //     ...headersOptions
+  //   },
+  //   timeout: 60000, //optional
+  //   ...proxy
+  // })
+  // console.log("🚀 ~ file: get.mjs ~ line 42 ~ res", res.data)
   const res = await request(`https://kbbi.kemdikbud.go.id/entri/${word}`, {
-    headersTimeout: 5e3, headers: {
+    headers: {
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-      'Accept-Encoding': 'gzip, deflate, br',
-      'accept-language': 'en-GB,en;q=0.9'
+      // 'Accept-Encoding': 'gzip, deflate, br',
+      // 'Accept-Language': 'en-GB,en;q=0.9'
     },
   })
   const html = await res.body.text();
@@ -190,7 +252,7 @@ const retry = (callback, times = 3) => {
   });
 };
 
-async function getAllWordsDefinition() {
+async function getAllRemainingWords() {
   const words = await getAllWords()
   const errorWords = await getAllErrorWords()
   const currentWords = await getAllCurrentWordsData();
@@ -203,7 +265,14 @@ async function getAllWordsDefinition() {
     }
   }
 
+  return remainingWords
+}
+
+async function getAllWordsDefinition() {
+  const remainingWords = await getAllRemainingWords()
+
   console.log(`Fetching definitions, ${remainingWords.length} words remaining`);
+  let i = 1;
   for await (const word of remainingWords) {
     try {
       const definitions = await getDefinitions(word);
@@ -217,7 +286,8 @@ async function getAllWordsDefinition() {
       }
 
       await storeWordDefinition(word, definitions);
-      console.log(`Definition for word ${word} stored`);
+      console.log(`${i}. Definition for word ${word} stored`);
+      i++;
     } catch (err) {
       if (err?.message === 'Rate limited') {
         await sleep(5000)
@@ -234,7 +304,16 @@ async function getAllWordsDefinition() {
   }
 }
 
+async function syncCurrentData() {
+  const remainingWords = await getAllRemainingWords()
+  await fs.writeFile(path.join(__dirname, '../remaining-words.json'), JSON.stringify(remainingWords))
+
+  const files = await fs.readdir(path.join(__dirname, '../data'))
+  const kata = files.map(file => file.replaceAll('_', ' ').replace('.json', ''))
+  await fs.writeFile(path.join(__dirname, '../') + 'current-words.json', JSON.stringify(kata))
+}
+
 (async function main() {
-  await getAllWordsDefinition()
-  // retry()
+  // await getAllWordsDefinition()
+  await syncCurrentData()
 })()
